@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "527610228572",
+    "project_id": "violetaapp-5932f",
+    "storage_bucket": "violetaapp-5932f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527610228572:android:62c4f7ba7acde870245b99",
+        "android_client_info": {
+          "package_name": "com.example.violetaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhN8Z_zjZWz5SNZS9UXnFbhY8aL-y9jLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
