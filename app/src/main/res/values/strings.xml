@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">VioletaApp</string>
+    <string name="login">Logo da Google com fundo violeta</string>
+    <string name="logo_violeta">Logo do aplicativo Violeta</string>
 </resources>
